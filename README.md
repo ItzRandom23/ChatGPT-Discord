@@ -19,7 +19,7 @@ To install and run the bot locally, follow these steps:
 
 2. **Navigate to the repository directory:**
    ```bash
-   cd Tunes
+   cd ChatGPT-Discord
    ```
 
 3. **Install the dependencies:**
