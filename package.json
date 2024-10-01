@@ -1,0 +1,35 @@
+{
+  "name": "chatgpt-discord",
+  "version": "0.1.0",
+  "description": "A powerful Discord bot that integrates OpenAI's GPT.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "openai": "^4.66.1",
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [
+    "discord-bot",
+    "openai",
+    "music-streaming",
+    "chatgpt",
+    "discord",
+    "bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItzRandom/chatgpt-discord-bot"
+  },
+  "bugs": {
+    "url": "https://github.com/ItzRandom/chatgpt-discord-bot/issues"
+  },
+  "homepage": "https://github.com/ItzRandom/chatgpt-discord-bot#readme",
+  "author": "Itz Random",
+  "license": "MIT"
+}
